@@ -2,7 +2,7 @@
 
 I am currently in a non-tech related role but hope to transition into tech in the near future. Also hoping to collaborate with others on tech proejects.
 
-### **Courses already taken**
+### **Courses undertaken**
 
 I have already done courses in the following areas:
 
@@ -30,9 +30,12 @@ I have already done courses in the following areas:
 
   
 ### **Current courses**
+
 Currently doing an entry to tech bootcamp with CBF which will focus on backend software development using java computer programming language.
 
-In future, I hope to work in data engineering or software engineering.
+### **My future goals and aspirations**
+
+In future, I hope to work in data engineering or fullstack software engineering.
 
 <!--
 **DrBAA/DrBAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
