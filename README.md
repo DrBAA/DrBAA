@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am currently in a non-tech related role but hope to transition into tech.
+
+Currently doing an entry to tech bootcamp with CBF which will focus on backend software development using java computer programming language.
+
+In future, I hope to work in data engineering or software engineering.
+
 <!--
 **DrBAA/DrBAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
