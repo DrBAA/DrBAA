@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently in a non-tech related role but hope to transition into tech in the near future. Also hoping to collaborate with others on tech proejects.
+I am currently in a non-tech related role but hope to transition into tech in the near future. Also hoping to collaborate with others on tech projects.
 
 ### **Courses undertaken**
 
