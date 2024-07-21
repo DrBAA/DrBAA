@@ -2,7 +2,7 @@
 
 I am currently in a non-tech related role but hope to transition into tech in the near future. Also hoping to collaborate with others on tech projects.
 
-### **Courses undertaken**
+### **Tech courses undertaken**
 
 I have already done courses in the following areas:
 
@@ -29,13 +29,13 @@ I have already done courses in the following areas:
   Intro to Data and SQL Kickstarter
 
   
-### **Current courses**
+### **Current courses in tech**
 
-Currently doing an entry to tech bootcamp with CBF which will focus on backend software development using java computer programming language.
+Currently doing an entry to tech bootcamp with Coding Black Females which will focus on backend software development using Java computer programming language.
 
 ### **My future goals and aspirations**
 
-In future, I hope to work in data engineering or fullstack software engineering.
+In future, I hope to work in data engineering or fullstack software engineering. I am also very interested in electronic trading algorithms and designing such algorithms to help traders scan the market for trading set ups more easily and quickly as compared to searching manually. 
 
 <!--
 **DrBAA/DrBAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
