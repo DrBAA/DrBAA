@@ -35,7 +35,7 @@ Currently doing an entry to tech bootcamp with Coding Black Females which will f
 
 ### **My future goals and aspirations**
 
-In future, I hope to work in data engineering or fullstack software engineering. I am also very interested in electronic trading algorithms and designing such algorithms to help traders scan the market for trading set ups more easily and quickly as compared to searching manually. 
+In future, I hope to work in data engineering or fullstack software engineering. I am also very interested in learning more about electronic trading algorithms and designing such algorithms to help traders scan the market for trading setups more easily and quickly as compared to searching manually. 
 
 <!--
 **DrBAA/DrBAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
