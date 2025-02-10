@@ -41,13 +41,13 @@ I have already done courses in the following areas:
   I plan to host the web app online using cloud platforms such as Render for back end code, Netlify for front end logic and Aiven for databases. I also plan to set up CI/CD pipelines for the front/back end logic and MYSQL database so as to
   automatically update the code online whenever I make any changes in my local machine. This will ensure that the users of the web app have the most up to date changes as they are released.
   
-  Created a trading algorithm as part of the bootcamp 
+  Created a trading algorithm (using Java) as part of the above bootcamp.
   
   Created a mini library management system with 2 other students as part of the Intro to JavaScript Course finished in January 2025
 
 ### **My future goals and aspirations**
 
-In future, I hope to work in data engineering or software engineering. I am also very interested in learning more about electronic trading algorithms and designing such algorithms to help traders scan the market for trading setups more easily and quickly as compared to searching manually. 
+In future, I hope to work in data engineering or software engineering. I am also very interested in learning more about machine learning, and AI powered electronic trading algorithms then designing such algorithms to help traders scan the market for trading setups more easily/quickly as compared to searching manually. 
 
 
 
