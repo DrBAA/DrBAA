@@ -34,10 +34,14 @@ I have already done courses in the following areas:
 
 ### **Tech Projects Completed/Underway**
   Created a MYSQL database from scratch with 11 tables all normarlized to 3NF.
+  
   Created a mini data pipeline (ETL) using Python and Pandas dataframe to extract data from a CSV file, clean the data and load it into MYSQL database.
+  
   Currently working on a web app which uses a Java Springboot API to fetch data from a MYSQL database, JavaScript Fetch API to communicate with the Java API and display the data on the web app using JavaScript, CSS and HTML.
   I plan to host the web app online using cloud platforms such as Render for back end code, Netlify for front end logic and Aiven for databases.
+  
   Created a trading algorithm as part of the bootcamp 
+  
   Created a mini library management system with 2 other students as part of the Intro to JavaScript Course finished in January 2025
 
 ### **My future goals and aspirations**
