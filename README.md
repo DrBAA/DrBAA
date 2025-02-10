@@ -4,8 +4,6 @@ I am currently in a non-tech related role but hope to transition into tech in th
 
 ### **Tech courses undertaken**
 
-I have already done courses in the following areas:
-
   Intro to Coding MOOC
 
   Intro to Python MOOC
