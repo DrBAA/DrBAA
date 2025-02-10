@@ -41,7 +41,7 @@ I am currently in a non-tech related role but hope to transition into tech in th
   
   Created a trading algorithm (using Java) as part of the above bootcamp.
   
-  Created a mini library management system with 2 other students as part of the Intro to JavaScript Course finished in January 2025
+  Created a web app for a mini library management system with 2 other students as part of the Intro to JavaScript Course finished in January 2025
 
 ### **My future goals and aspirations**
 
