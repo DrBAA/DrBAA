@@ -28,10 +28,9 @@ I have already done courses in the following areas:
 
   Intro to Data and SQL Kickstarter
 
+  Entry to tech bootcamp with Coding Black Females which focused on backend software development using Java computer programming language.
   
-### **Current courses in tech**
-
-Currently doing an entry to tech bootcamp with Coding Black Females which will focus on backend software development using Java computer programming language.
+  Intro to JavaScript Kickstarter
 
 ### **My future goals and aspirations**
 
