@@ -49,7 +49,7 @@ I am currently in a non-tech related role but hope to transition into tech in th
 
 ### **My future goals and aspirations**
 
-In future, I hope to work in data engineering, software engineering, platform engineering or devops but I am also open to other opportunities where my skills can be put to use.
+In future, I hope to work in data engineering, software engineering, platform engineering but I am also open to other opportunities where my skills can be put to use.
 I am also very interested in learning more about machine learning and AI powered electronic trading algorithms, designing such algorithms to help traders scan the market for trading setups more easily/quickly as compared to searching manually. 
 
 
