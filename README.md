@@ -31,13 +31,13 @@ I am currently in a non-tech related role but hope to transition into tech in th
   Intro to JavaScript Kickstarter, December 2024 - January 2025
 
 ### **Tech Projects Completed/Underway**
-  1). As part of the intro to SQL and data kickstarter course finished in January 2024, I created a MYSQL relational database from scratch with 11 tables all normarlized to 3NF. I also created several queries/subqueries and other functionalies to query the database or perform various operations.
+  1). As part of the intro to data and SQL kickstarter course finished in January 2024, I created a MYSQL relational database from scratch with 11 tables all normarlized to 3NF. I also created several queries/subqueries and other functionalies to query the database or perform various operations.
   
   2). Created a mini data pipeline (ETL) using Python and Pandas dataframe to extract data from a CSV file, clean the data and load it into MYSQL database.
   
   3). As part of the Entry to Tech bootcamp finished in Nov 2024, I created a trading algorithm (using Java). This included the trading algorithm logic, J-Unit tests and Backtesting to ensure the algorithm worked as expected.
   
-  4). As part of the Intro to JavaScript Course finished in January 2025, I created a web app for a mini library management system with 2 other students. This used JavaScript, CSS and HTML to display data on the web app, and browser's Local Storage for data persistence.
+  4). As part of the Intro to JavaScript Course finished in January 2025, I created a web app for a mini library management system with 2 other students. This used JavaScript, CSS and HTML to display data on the web app. Also used browser's Local Storage for data persistence.
 
   5). Currently working on a web app for a food pantry to fulfil a personal goal. The web app uses the following tech stack:
   Java Springboot API to fetch data from a MYSQL database,
