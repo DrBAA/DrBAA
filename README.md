@@ -45,7 +45,7 @@ I am currently in a non-tech related role but hope to transition into tech in th
   I plan to host the web app online using cloud platforms such as Render for back end code, Netlify for front end logic and Aiven for databases.
   I also plan to set up CI/CD pipelines for the front/back end logic and MYSQL database which will automatically update the code online whenever I make changes in my local machine.
   This will ensure that the web app users have the most up to date changes as they are released.
-  I have already started this process by hosting MySQL databased on Aiven cloud platform. Currently trying to set up a CI/CD pipeline for this database using GitHub Actions but still struggling to update the cloud hosted database when changes are made downstream. Still working on this.
+  I have already started this process by hosting MySQL database on Aiven cloud platform. Currently trying to set up a CI/CD pipeline for this database using GitHub Actions but still struggling to update the cloud hosted database when changes are made downstream. Still working on this.
 
 ### **My future goals and aspirations**
 
